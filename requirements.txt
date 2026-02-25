@@ -1,0 +1,10 @@
+torch
+transformers
+fastapi
+uvicorn
+pydantic
+scikit-learn
+shap
+sentencepiece
+dataset
+accelerate
